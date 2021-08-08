@@ -18,7 +18,8 @@ This project is a newly proposed project starting on semester 2, 2021. At this s
 Name|Contact Details
 :--------------:|:-------------------------------:
 Rob Morris|rob@ioenergy.com.au
-Kishor J|kishor@ioenergy.com.au  
+Kishor J|kishor@ioenergy.com.au
+
 **Team Side**
 Name|Contact Details|Role
 :--------------:|:-------------------------------:|:----------------------:
@@ -30,6 +31,7 @@ Yuexin Chen(Kevin)|Yuexin.Chen@anu.edu.au|Backend Developer, Database Administra
 
 ## 4 Documents
 > We will be using Google Drive to share documents and GitHub for storing and code implementation.
+
 Folder|Description
 :-----------|:--------------------:
 [Audit]()|Documentation for each Audit stage eg presentation slides and Poster.
@@ -46,6 +48,7 @@ Folder|Description
 
 ## 5 Communication and Project Tools
 > We will be using Slack and Emails for communication, Github for project development, and Google Docs for project management.
+
 Tools|Link|How to access
 :------|:------------------|:---------
 Slack|https://app.slack.com/client/T029CADQB97/C029K0BSESE|Click the link
