@@ -14,7 +14,7 @@ This project is a newly proposed project starting on semester 2, 2021. At this s
 ## 3 About the team and contacts
 > The following table outlines the contact person for the Client and Team side.  
 CLIENT
-:----:|:----:
+:------------:|:--------------------------------:
 Name|Contact Details
 Rob Morris|rob@ioenergy.com.au
 Kishor J|kishor@ioenergy.com.au
