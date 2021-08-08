@@ -1,5 +1,5 @@
 # 8715 TechLauncher - IO Energy
-<font color=grey size=5>lalalalal</font>
+`<font color=grey size=5>lalalalal</font>`
 
 ## 1 <u>Project Introduction</u>
 
