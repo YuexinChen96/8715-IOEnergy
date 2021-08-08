@@ -22,7 +22,7 @@ Kishor J|kishor@ioenergy.com.au
 
 **Team Side**
 Name|Contact Details|Role
-:--------------:|:-------------------------------:|:----------------------:
+:---------------------:|:-------------------------------:|:------------------:
 Xi Chen(Chloe)|Xi.Chen2@anu.edu.au|Spokesman, Client Contact, Scheduling, UI Designer, Front-end Developer
 Jingyi Wang(Shirley)|Jingyi.Wang2@anu.edu.au|Deputy Spokesman, Project Manager, Data Analysis and Visualization
 Qixuan Ren(Natalie)|Qixuan.Ren@anu.edu.au|Backend Developer, Documentation
@@ -33,7 +33,7 @@ Yuexin Chen(Kevin)|Yuexin.Chen@anu.edu.au|Backend Developer, Database Administra
 > We will be using Google Drive to share documents and GitHub for storing and code implementation.
 
 Folder|Description
-:-----------|:--------------------:
+:-----------|:-----------:
 [Audit]()|Documentation for each Audit stage eg presentation slides and Poster.
 [Decision Log]()|Documents on the major decisions made.
 [Forms]()|The team's insurance form and confidentiality agreement.
@@ -50,7 +50,7 @@ Folder|Description
 > We will be using Slack and Emails for communication, Github for project development, and Google Docs for project management.
 
 Tools|Link|How to access
-:------|:------------------|:---------
+:------|:------------------|:------------
 Slack|https://app.slack.com/client/T029CADQB97/C029K0BSESE|Click the link
 Github| |Please email Yuexin Chen at Yuexin.Chen@anu.edu.au for repo access
 Google Docs| |Please email Yifei Tao at Yifei.Tao@anu.edu.au for document access
