@@ -16,7 +16,38 @@ This project is a newly proposed project starting on semester 2, 2021. At this s
 
 **Client Side**
 Name|Contact Details
-:------------:|:--------------------------------:
+:--------------:|:-------------------------------:
 Rob Morris|rob@ioenergy.com.au
 Kishor J|kishor@ioenergy.com.au
+**Team Side**
+Name|Contact Details|Role
+:--------------:|:-------------------------------:|:----------------------:
+Xi Chen(Chloe)|Xi.Chen2@anu.edu.au|Spokesman, Client Contact, Scheduling, UI Designer, Front-end Developer
+Jingyi Wang(Shirley)|Jingyi.Wang2@anu.edu.au|Deputy Spokesman, Project Manager, Data Analysis and Visualization
+Qixuan Ren(Natalie)|Qixuan.Ren@anu.edu.au|Backend Developer, Documentation
+Yifei Tao(Katherine)|Yifei.Tao@anu.edu.au|Data Analysis, Documentation
+Yuexin Chen(Kevin)|Yuexin.Chen@anu.edu.au|Backend Developer, Database Administrator, Quality Control
 
+## 4 Documents
+> We will be using Google Drive to share documents and GitHub for storing and code implementation.
+Folder|Description
+:-----------|:--------------------:
+[Audit]()|Documentation for each Audit stage eg presentation slides and Poster.
+[Decision Log]()|Documents on the major decisions made.
+[Forms]()|The team's insurance form and confidentiality agreement.
+[Meeting Minutes]()|Notes were taken during the meeting with the team and/or with client.
+[Reflection Log]()|Documents on our reflection after each week and Audit.
+[Risk]()|Documents about risks that encountered and may encounter in this project.
+[Statement of Work(SoW)]()|Document outlining the project scope, stakeholders, communication schedule, and development schedule.
+[Technical Documents]()|Technical documentation and guides.
+[User Story]()|Documents related to the user story, like client discussions.
+[Wireframe]()|Documents related to UI Wireframe.
+*Note not all folders are listed due to data privacy reasons
+
+## 5 Communication and Project Tools
+> We will be using Slack and Emails for communication, Github for project development, and Google Docs for project management.
+Tools|Link|How to access
+:------|:------------------|:---------
+Slack|https://app.slack.com/client/T029CADQB97/C029K0BSESE|Click the link
+Github| |Please email Yuexin Chen at Yuexin.Chen@anu.edu.au for repo access
+Google Docs| |Please email Yifei Tao at Yifei.Tao@anu.edu.au for document access
