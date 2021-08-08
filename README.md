@@ -23,7 +23,7 @@ Kishor J|kishor@ioenergy.com.au
 
 **Team Side**
 Name|Contact Details|Role
-:---------------------:|:-------------------------------:|:------------------
+:---------------------:|:----------------------------:|:-------
 Xi Chen(Chloe)|Xi.Chen2@anu.edu.au|Spokesman, Client Contact, Scheduling, UI Designer, Front-end Developer
 Jingyi Wang(Shirley)|Jingyi.Wang2@anu.edu.au|Deputy Spokesman, Project Manager, Data Analysis and Visualization
 Qixuan Ren(Natalie)|Qixuan.Ren@anu.edu.au|Backend Developer, Documentation
@@ -45,6 +45,7 @@ Folder|Description
 [Technical Documents]()|Technical documentation and guides.
 [User Story]()|Documents related to the user story, like client discussions.
 [Wireframe]()|Documents related to UI Wireframe.
+
 *Note not all folders are listed due to data privacy reasons
 
 ## 5 Communication and Project Tools
