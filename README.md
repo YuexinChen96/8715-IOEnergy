@@ -2,7 +2,8 @@
 > This project is related to the ANU computing project course - COMP8715. Our client is IO Energy Company and for more information, please visit [https://www.ioenergy.com.au/](https://www.ioenergy.com.au/)  
 
 ## 1 Project Introduction
-This project is to help the clients develop a Web Application for the statistics and visualization of electricity consumption of households and small businesses.  
+This project is to help the clients develop a Web Application for the statistics and visualization of electricity consumption of households and small businesses.   
+
 As of now, our client - IO Energy has designed a web dashboard to present basic information of the electricitt consumption for their customers. According to IO Energy's requirement, this project will focus on developing a Web Application to analyse and visualize the client's electricity consumption with required features and interface.  
 ## 2 Current State
 This project is a newly proposed project starting on semester 2, 2021. At this stage, the overall idea of Web Application is drafted and discussed with IO Energy. Many features and ways of implementation have been confirmed:
@@ -22,7 +23,7 @@ Kishor J|kishor@ioenergy.com.au
 
 **Team Side**
 Name|Contact Details|Role
-:---------------------:|:-------------------------------:|:------------------:
+:---------------------:|:-------------------------------:|:------------------
 Xi Chen(Chloe)|Xi.Chen2@anu.edu.au|Spokesman, Client Contact, Scheduling, UI Designer, Front-end Developer
 Jingyi Wang(Shirley)|Jingyi.Wang2@anu.edu.au|Deputy Spokesman, Project Manager, Data Analysis and Visualization
 Qixuan Ren(Natalie)|Qixuan.Ren@anu.edu.au|Backend Developer, Documentation
@@ -33,7 +34,7 @@ Yuexin Chen(Kevin)|Yuexin.Chen@anu.edu.au|Backend Developer, Database Administra
 > We will be using Google Drive to share documents and GitHub for storing and code implementation.
 
 Folder|Description
-:-----------|:-----------:
+:-----------|:-----------
 [Audit]()|Documentation for each Audit stage eg presentation slides and Poster.
 [Decision Log]()|Documents on the major decisions made.
 [Forms]()|The team's insurance form and confidentiality agreement.
