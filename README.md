@@ -18,7 +18,7 @@ This project is a newly proposed project starting on semester 2, 2021. At this s
 Name|Contact Details
 :--------------:|:-------------------------------:
 Rob Morris|rob@ioenergy.com.au
-Kishor J|kishor@ioenergy.com.au
+Kishor J|kishor@ioenergy.com.au  
 **Team Side**
 Name|Contact Details|Role
 :--------------:|:-------------------------------:|:----------------------:
