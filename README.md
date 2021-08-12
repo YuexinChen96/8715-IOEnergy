@@ -35,7 +35,7 @@ Yuexin Chen(Kevin)|Yuexin.Chen@anu.edu.au|Backend Developer, Database Administra
 
 Folder|Description
 :-----------|:-----------
-[Audit](https://github.com/YuexinChen96/8715-IOEnergy/blob/main/Documents/Audit%201%20Slides%20-%20IO%20Energy.pptx)|Documentation for each Audit stage eg presentation slides and Poster.
+[Audit](https://github.com/YuexinChen96/8715-IOEnergy/tree/main/Documents/Audit%20Slides)|Documentation for each Audit stage eg presentation slides and Poster.
 [Decision Log]()|Documents on the major decisions made.
 [Forms]()|The team's insurance form and confidentiality agreement.
 [Meeting Minutes]()|Notes were taken during the meeting with the team and/or with client.
