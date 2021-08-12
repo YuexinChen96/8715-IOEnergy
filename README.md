@@ -41,7 +41,7 @@ Folder|Description
 [Meeting Minutes]()|Notes were taken during the meeting with the team and/or with client.
 [Reflection Log]()|Documents on our reflection after each week and Audit.
 [Risk]()|Documents about risks that encountered and may encounter in this project.
-[Statement of Work(SoW)]()|Document outlining the project scope, stakeholders, communication schedule, and development schedule.
+[Statement of Work(SoW)](https://github.com/YuexinChen96/8715-IOEnergy/blob/main/Documents/SoW%20IO%20Energy.pdf)|Document outlining the project scope, stakeholders, communication schedule, and development schedule.
 [Technical Documents]()|Technical documentation and guides.
 [User Story]()|Documents related to the user story, like client discussions.
 [Wireframe]()|Documents related to UI Wireframe.
