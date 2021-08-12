@@ -35,14 +35,14 @@ Yuexin Chen(Kevin)|Yuexin.Chen@anu.edu.au|Backend Developer, Database Administra
 
 Folder|Description
 :-----------|:-----------
-[Audit](https://github.com/YuexinChen96/8715-IOEnergy/blob/main/Documents/Audit%20Slides/Audit%201%20Slides%20-%20IO%20Energy.pdf)|Documentation for each Audit stage eg presentation slides and Poster.
+[Audit Documents](https://github.com/YuexinChen96/8715-IOEnergy/blob/main/Documents/Audit%20Slides/Audit%201%20Slides%20-%20IO%20Energy.pdf)|Documentation for each Audit stage eg presentation slides and Poster.
 [Decision Log]()|Documents on the major decisions made.
-[Forms](https://github.com/YuexinChen96/8715-IOEnergy/blob/main/Documents/Team%20Charter.pdf)|The team's insurance form and confidentiality agreement.
+[Team Charter](https://github.com/YuexinChen96/8715-IOEnergy/blob/main/Documents/Team%20Charter.pdf)|The team's insurance form and confidentiality agreement.
 [Meeting Minutes](https://github.com/YuexinChen96/8715-IOEnergy/tree/main/Documents/Meeting%20records)|Notes were taken during the meeting with the team and/or with client.
 [Reflection Log]()|Documents on our reflection after each week and Audit.
 [Risk]()|Documents about risks that encountered and may encounter in this project.
 [Statement of Work(SoW)](https://github.com/YuexinChen96/8715-IOEnergy/blob/main/Documents/SoW%20IO%20Energy.pdf)|Document outlining the project scope, stakeholders, communication schedule, and development schedule.
-[Technical Documents](https://github.com/YuexinChen96/8715-IOEnergy/tree/main/Documents/Design%20think%20process)|Technical documentation and guides.
+[Design Thinking Documents](https://github.com/YuexinChen96/8715-IOEnergy/tree/main/Documents/Design%20think%20process)|Technical documentation and guides.
 [User Story](https://www.ioenergy.com.au/)|Documents related to the user story, like client discussions.
 [Wireframe]()|Documents related to UI Wireframe.
 
