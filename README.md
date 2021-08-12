@@ -37,7 +37,7 @@ Folder|Description
 :-----------|:-----------
 [Audit](https://github.com/YuexinChen96/8715-IOEnergy/tree/main/Documents/Audit%20Slides)|Documentation for each Audit stage eg presentation slides and Poster.
 [Decision Log]()|Documents on the major decisions made.
-[Forms]()|The team's insurance form and confidentiality agreement.
+[Forms](https://github.com/YuexinChen96/8715-IOEnergy/blob/main/Documents/Team%20Charter.pdf)|The team's insurance form and confidentiality agreement.
 [Meeting Minutes](https://github.com/YuexinChen96/8715-IOEnergy/tree/main/Documents/Meeting%20records)|Notes were taken during the meeting with the team and/or with client.
 [Reflection Log]()|Documents on our reflection after each week and Audit.
 [Risk]()|Documents about risks that encountered and may encounter in this project.
