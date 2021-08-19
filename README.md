@@ -36,15 +36,15 @@ Yuexin Chen(Kevin)|Yuexin.Chen@anu.edu.au|Backend Developer, Database Administra
 Folder|Description
 :-----------|:-----------
 [Audit Documents](https://github.com/YuexinChen96/8715-IOEnergy/blob/main/Documents/Audit%20Slides/Audit%201%20Slides%20-%20IO%20Energy.pdf)|Documentation for each Audit stage eg presentation slides and Poster.
-[Decision Log(To be updated)]|Documents on the major decisions made.
+[Decision Log(https://docs.google.com/spreadsheets/d/1tHocQ0SCRXdcdFboAhy9FC6_8R-uE7wCzc9LjX0xFbA/edit?usp=sharing)]|Documents on the major decisions made.
 [Team Charter](https://github.com/YuexinChen96/8715-IOEnergy/blob/main/Documents/Team%20Charter.pdf)|The team's insurance form and confidentiality agreement.
-[Meeting Minutes](https://github.com/YuexinChen96/8715-IOEnergy/tree/main/Documents/Meeting%20records)|Notes were taken during the meeting with the team and/or with client.
-[Reflection Log(To be updated)]|Documents on our reflection after each week and Audit.
-[Risk(To be updated)]|Documents about risks that encountered and may encounter in this project.
+[Meeting Minutes](https://docs.google.com/document/d/1wlnMuwyErh5wcETDpoe5OEghEsV6REDKQMMjtUOwed0/edit?usp=sharing)|Notes were taken during the meeting with the team and/or with client.
+[Reflection Log(https://docs.google.com/document/d/1IF-PVXPF5HONpjKUjhgFBr3hapASjIB6g5jkJHNrMN8/edit?usp=sharing)]|Documents on our reflection after each week and Audit.
+[Risk Matrix and Constraints(https://docs.google.com/spreadsheets/d/1DvPCkr_r0QE0AbWKD3gFRCs_AlMRYpD5SWJIlRuuesc/edit?usp=sharing)]|Documents about risks that encountered and may encounter in this project, and constraints continuously being defined throughout the project.
 [Statement of Work(SoW)](https://github.com/YuexinChen96/8715-IOEnergy/blob/main/Documents/SoW%20IO%20Energy.pdf)|Document outlining the project scope, stakeholders, communication schedule, and development schedule.
 [Design Thinking Documents](https://github.com/YuexinChen96/8715-IOEnergy/tree/main/Documents/Design%20think%20process)|Technical documentation and guides.
-[User Story](https://www.ioenergy.com.au/)|Documents related to the user story, like client discussions.
-[Wireframe(To be updated)]|Documents related to UI Wireframe.
+[User Story](https://www.ioenergy.com.au/)|Documents related to the user story, like client discussions. TBD.
+[Quality Control(https://docs.google.com/document/d/1xknVvc5jmiw_VynZByURVQMFdgy-Fd75s3e7X6zL_Zo/edit?usp=sharing)]|Quality Control Documents recording the criteria  and Methods for QC.
 
 *Note not all folders are listed due to data privacy reasons
 
