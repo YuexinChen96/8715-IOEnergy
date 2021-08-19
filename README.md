@@ -20,6 +20,7 @@ Name|Contact Details
 :--------------:|:-------------------------------:
 Rob Morris|rob@ioenergy.com.au
 Kishor J|kishor@ioenergy.com.au
+Luke Morton|Luke@ioenergy.com.au
 
 **Team Side**
 Name|Contact Details|Role
