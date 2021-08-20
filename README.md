@@ -44,9 +44,10 @@ Folder|Description
 [Reflection Log](https://docs.google.com/document/d/1IF-PVXPF5HONpjKUjhgFBr3hapASjIB6g5jkJHNrMN8/edit?usp=sharing)]|Documents on our reflection after each week and Audit.
 [Risk Matrix and Constraints](https://docs.google.com/spreadsheets/d/1DvPCkr_r0QE0AbWKD3gFRCs_AlMRYpD5SWJIlRuuesc/edit?usp=sharing)]|Documents about risks that encountered and may encounter in this project, and constraints continuously being defined throughout the project.
 [Statement of Work(SoW)](https://github.com/YuexinChen96/8715-IOEnergy/blob/main/Documents/SoW%20IO%20Energy.pdf)|Document outlining the project scope, stakeholders, communication schedule, and development schedule.
-[Design Thinking Documents](https://github.com/YuexinChen96/8715-IOEnergy/tree/main/Documents/Design%20think%20process)|Technical documentation and guides.
+[Design Thinking Documents](https://github.com/YuexinChen96/8715-IOEnergy/tree/main/Documents/Design%20think%20process)|Design Thinking documentation and guides.
 [User Story](https://www.ioenergy.com.au/)|Documents related to the user story, like client discussions. (TBD)
 [Quality Control](https://docs.google.com/document/d/1xknVvc5jmiw_VynZByURVQMFdgy-Fd75s3e7X6zL_Zo/edit?usp=sharing)]|Quality Control Documents recording the criteria  and Methods for QC.
+[Technical Document](https://docs.google.com/document/d/12pLYh_JzcEyuNyaVx0ghlucgYspW8Km99rD-0CdaGDI/edit?usp=sharing)|Technical documentation and guides.
 
 *Note not all folders are listed due to data privacy reasons
 
