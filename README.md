@@ -37,7 +37,7 @@ Yuexin Chen(Kevin)|Yuexin.Chen@anu.edu.au|Backend Developer, Database Administra
 
 Folder|Description
 :-----------|:-----------
-[Audit Documents](https://github.com/YuexinChen96/8715-IOEnergy/blob/main/Documents/Audit%20Slides/Audit%201%20Slides%20-%20IO%20Energy.pdf)|Documentation for each Audit stage eg presentation slides and Poster.
+[Audit Documents](https://drive.google.com/drive/folders/1QcUuUUmxzavHi3M87q3o9UUJ5kjPjWxQ?usp=sharing)|Documentation for each Audit stage eg presentation slides and Poster.
 [Decision Log, Task Management](https://docs.google.com/spreadsheets/d/1tHocQ0SCRXdcdFboAhy9FC6_8R-uE7wCzc9LjX0xFbA/edit?usp=sharing)]|Documents on the major decisions made and task management overview. (Detailed Project Management will updated in Jira and Clickup)
 [Team Charter](https://github.com/YuexinChen96/8715-IOEnergy/blob/main/Documents/Team%20Charter.pdf)|The team's insurance form and confidentiality agreement.
 [Meeting Minutes](https://docs.google.com/document/d/1wlnMuwyErh5wcETDpoe5OEghEsV6REDKQMMjtUOwed0/edit?usp=sharing)|Notes were taken during the meeting with the team and/or with client.
