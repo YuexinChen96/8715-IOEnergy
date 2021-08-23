@@ -40,7 +40,7 @@ Folder|Description
 [Audit Documents](https://drive.google.com/drive/folders/1QcUuUUmxzavHi3M87q3o9UUJ5kjPjWxQ?usp=sharing)|Documentation for each Audit stage eg presentation slides and Poster.
 [Decision Log, PM Overview](https://docs.google.com/spreadsheets/d/1tHocQ0SCRXdcdFboAhy9FC6_8R-uE7wCzc9LjX0xFbA/edit?usp=sharing)]|Documents on the major decisions and project management overview. (Detailed Project Management will updated in Jira)
 [Team Charter](https://github.com/YuexinChen96/8715-IOEnergy/blob/main/Documents/Team%20Charter.pdf)|The team's insurance form and confidentiality agreement.
-[Meeting Minutes](https://docs.google.com/document/d/1wlnMuwyErh5wcETDpoe5OEghEsV6REDKQMMjtUOwed0/edit?usp=sharing)|Notes were taken during the meeting with the team and/or with client.
+[Meeting Minutes](https://docs.google.com/document/d/1WfmBg25TnX-3wSLOrmrzqYUeipr9Bp1ApxWZHz_fFVg/edit?usp=sharing)|Notes were taken during the meeting with the team and/or with client.
 [Reflection Log](https://docs.google.com/document/d/1IF-PVXPF5HONpjKUjhgFBr3hapASjIB6g5jkJHNrMN8/edit?usp=sharing)]|Documents on our reflection after each week and Audit.
 [Risk Matrix and Constraints](https://docs.google.com/spreadsheets/d/1DvPCkr_r0QE0AbWKD3gFRCs_AlMRYpD5SWJIlRuuesc/edit?usp=sharing)]|Documents about risks that encountered and may encounter in this project, and constraints continuously being defined throughout the project.
 [Statement of Work(SoW)](https://github.com/YuexinChen96/8715-IOEnergy/blob/main/Documents/SoW%20IO%20Energy.pdf)|Document outlining the project scope, stakeholders, communication schedule, and development schedule.
