@@ -38,14 +38,14 @@ Yuexin Chen(Kevin)|Yuexin.Chen@anu.edu.au|Backend Developer, Database Administra
 Folder|Description
 :-----------|:-----------
 [Audit Documents](https://drive.google.com/drive/folders/1QcUuUUmxzavHi3M87q3o9UUJ5kjPjWxQ?usp=sharing)|Documentation for each Audit stage eg presentation slides and Poster.
-[Decision Log, PM Overview](https://docs.google.com/spreadsheets/d/1tHocQ0SCRXdcdFboAhy9FC6_8R-uE7wCzc9LjX0xFbA/edit?usp=sharing)]|Documents on the major decisions and project management overview. (Detailed Project Management will updated in Jira)
 [Team Charter](https://github.com/YuexinChen96/8715-IOEnergy/blob/main/Documents/Team%20Charter.pdf)|The team's insurance form and confidentiality agreement.
-[Meeting Minutes](https://docs.google.com/document/d/1WfmBg25TnX-3wSLOrmrzqYUeipr9Bp1ApxWZHz_fFVg/edit?usp=sharing)|Notes were taken during the meeting with the team and/or with client.
+[Meeting Minutes and Weekly Agenda](https://docs.google.com/document/d/1WfmBg25TnX-3wSLOrmrzqYUeipr9Bp1ApxWZHz_fFVg/edit?usp=sharing)|Meeting records is for recording the weekly meeting notes with clients, and will be reviewed on weekly inner-group meeting. Agenda will be sent to clients before each week's meeting. The details of agenda are subject to the weekly email.
+[Decision Log, PM Overview](https://docs.google.com/spreadsheets/d/1tHocQ0SCRXdcdFboAhy9FC6_8R-uE7wCzc9LjX0xFbA/edit?usp=sharing)]|This document will be updated after each week's inner-group meeting. Decision log documents all the major decisions. Project management overview includes new tasks for each week, and Gantt chart up to date. (Detailed Project Management will be updated in Jira and shared within the group)
 [Reflection Log](https://docs.google.com/document/d/1IF-PVXPF5HONpjKUjhgFBr3hapASjIB6g5jkJHNrMN8/edit?usp=sharing)]|Documents on our reflection after each week and Audit.
 [Risk Matrix and Constraints](https://docs.google.com/spreadsheets/d/1DvPCkr_r0QE0AbWKD3gFRCs_AlMRYpD5SWJIlRuuesc/edit?usp=sharing)]|Documents about risks that encountered and may encounter in this project, and constraints continuously being defined throughout the project.
 [Statement of Work(SoW)](https://github.com/YuexinChen96/8715-IOEnergy/blob/main/Documents/SoW%20IO%20Energy.pdf)|Document outlining the project scope, stakeholders, communication schedule, and development schedule.
 [Design Thinking Documents](https://github.com/YuexinChen96/8715-IOEnergy/tree/main/Documents/Design%20think%20process)|Design Thinking documentation and guides.
-[User Story](https://miro.com/app/board/o9J_l1Qz2wo=/)|Documents related to the user story, like client discussions.
+[User Story](https://miro.com/app/board/o9J_l1Qz2wo=/)|Documents related to the user story.
 [Quality Control](https://docs.google.com/document/d/1xknVvc5jmiw_VynZByURVQMFdgy-Fd75s3e7X6zL_Zo/edit?usp=sharing)]|Quality Control Documents recording the criteria  and Methods for QC.
 [Technical Document](https://docs.google.com/document/d/12pLYh_JzcEyuNyaVx0ghlucgYspW8Km99rD-0CdaGDI/edit?usp=sharing)|Technical documentation and guides.
 
