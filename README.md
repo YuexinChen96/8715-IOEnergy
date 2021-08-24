@@ -6,7 +6,7 @@ This project is to help the clients develop a Web Application for the statistics
 This project is a newly proposed project starting on semester 2, 2021. At this stage, the overall idea of Web Application is drafted and discussed with IO Energy.
 As of now, our client - IO Energy has designed a web dashboard to present basic information of the electricitt consumption for their customers. According to IO Energy's requirement, this project will focus on developing a Web Application to analyse and visualize the client's electricity consumption with required features and interface.  
 
-## 2 Current Key Issues - Week 5
+## 2 Current Key Issues - Week 5 (22 Aug - 28 Aug)
 > Show the main issues of the current week. This section will be updated weekly.
 1. Need to finish the draft for frond-end design.
 2. Need to figure out the backend calculation logic.
