@@ -14,7 +14,7 @@ As of now, our client - IO Energy has designed a web dashboard to present basic 
 
 
 ## 3 Weekly Sprint Schedule
-> The following table will be updated weekly with main tasks in each sprint, detailed project management overview please see [Decision Log, PM Overview](https://docs.google.com/spreadsheets/d/1tHocQ0SCRXdcdFboAhy9FC6_8R-uE7wCzc9LjX0xFbA/edit?usp=sharing).
+> The following table will be updated weekly with main tasks in each sprint, detailed project management overview please see [Decision Log, PM Overview](https://docs.google.com/spreadsheets/d/1tHocQ0SCRXdcdFboAhy9FC6_8R-uE7wCzc9LjX0xFbA/edit#gid=1106146888).
 <table>
     <tr>
         <th>Sprint Period</th><th>Task Range</th><th>Details</th>
