@@ -107,4 +107,4 @@ Tools|Link|How to access
 :------|:------------------|:------------
 Slack|https://app.slack.com/client/T029CADQB97/C029K0BSESE|Click the link
 Github| |Please email Yuexin Chen at Yuexin.Chen@anu.edu.au for repo access
-Google Docs| |Please email Yifei Tao at Yifei.Tao@anu.edu.au for document access
+Google Docs| |We will list the links for documents in this page Part 4. Please email Yifei Tao at Yifei.Tao@anu.edu.au for document access if you encounter any issues.
