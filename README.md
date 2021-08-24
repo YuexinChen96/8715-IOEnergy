@@ -5,7 +5,15 @@
 This project is to help the clients develop a Web Application for the statistics and visualization of electricity consumption of households and small businesses.   
 This project is a newly proposed project starting on semester 2, 2021. At this stage, the overall idea of Web Application is drafted and discussed with IO Energy.
 As of now, our client - IO Energy has designed a web dashboard to present basic information of the electricitt consumption for their customers. According to IO Energy's requirement, this project will focus on developing a Web Application to analyse and visualize the client's electricity consumption with required features and interface.  
-## 2 Weekly Sprint Schedule
+
+## 2 Current Key Targets
+1. Finish the draft for frond-end design.
+2. Figure out the backend calculation logic.
+3. Improve the documentation for project management.
+
+
+
+## 3 Weekly Sprint Schedule
 <table>
     <tr>
         <th>Sprint Period</th><th>Task Range</th><th>Details</th>
@@ -49,7 +57,27 @@ As of now, our client - IO Energy has designed a web dashboard to present basic 
 </table>
 
 
-## 3 About the team and contacts
+
+## 4 Documents
+> We will be using Google Drive to share documents and GitHub for storing and code implementation.
+
+Folder|Description
+:-----------|:-----------
+[Audit Documents](https://drive.google.com/drive/folders/1QcUuUUmxzavHi3M87q3o9UUJ5kjPjWxQ?usp=sharing)|Documentation for each Audit stage eg presentation slides and Poster.
+[Team Charter](https://github.com/YuexinChen96/8715-IOEnergy/blob/main/Documents/Team%20Charter.pdf)|The team's insurance form and confidentiality agreement.
+[Meeting Minutes and Weekly Agenda](https://docs.google.com/document/d/1WfmBg25TnX-3wSLOrmrzqYUeipr9Bp1ApxWZHz_fFVg/edit?usp=sharing)|Meeting records is for recording the weekly meeting notes with clients, and will be reviewed on weekly inner-group meeting. Agenda will be sent to clients before each week's meeting. The details of agenda are subject to the weekly email.
+[Decision Log, PM Overview](https://docs.google.com/spreadsheets/d/1tHocQ0SCRXdcdFboAhy9FC6_8R-uE7wCzc9LjX0xFbA/edit?usp=sharing)|This document will be updated after each week's inner-group meeting. Decision log documents all the major decisions. Project management overview includes new tasks for each week, and Gantt chart up to date. (Detailed Project Management will be updated in Jira and shared within the group)
+[Reflection Log](https://docs.google.com/document/d/1IF-PVXPF5HONpjKUjhgFBr3hapASjIB6g5jkJHNrMN8/edit?usp=sharing)|Documents on our reflection after each week and Audit.
+[Risk Matrix and Constraints](https://docs.google.com/spreadsheets/d/1DvPCkr_r0QE0AbWKD3gFRCs_AlMRYpD5SWJIlRuuesc/edit?usp=sharing)|Documents about risks that encountered and may encounter in this project, and constraints continuously being defined throughout the project.
+[Statement of Work(SoW)](https://github.com/YuexinChen96/8715-IOEnergy/blob/main/Documents/SoW%20IO%20Energy.pdf)|Document outlining the project scope, stakeholders, communication schedule, and development schedule.
+[Design Thinking Documents](https://github.com/YuexinChen96/8715-IOEnergy/tree/main/Documents/Design%20think%20process)|Design Thinking documentation and guides.
+[User Story](https://miro.com/app/board/o9J_l1Qz2wo=/)|Documents related to the user story.
+[Quality Control](https://docs.google.com/document/d/1xknVvc5jmiw_VynZByURVQMFdgy-Fd75s3e7X6zL_Zo/edit?usp=sharing)|Quality Control Documents recording the criteria  and Methods for QC.
+[Technical Document](https://docs.google.com/document/d/12pLYh_JzcEyuNyaVx0ghlucgYspW8Km99rD-0CdaGDI/edit?usp=sharing)|Technical documentation and guides.
+
+
+
+## 5 About the team and contacts
 > The following table outlines the contact person for the Client and Team side.  
 
 **Client Side**
@@ -69,26 +97,8 @@ Qixuan Ren(Natalie)|Qixuan.Ren@anu.edu.au|Backend Developer, Documentation
 Yifei Tao(Katherin)|Yifei.Tao@anu.edu.au|Data Analysis, Documentation
 Yuexin Chen(Kevin)|Yuexin.Chen@anu.edu.au|Backend Developer, Database Administrator, Quality Control
 
-## 4 Documents
-> We will be using Google Drive to share documents and GitHub for storing and code implementation.
 
-Folder|Description
-:-----------|:-----------
-[Audit Documents](https://drive.google.com/drive/folders/1QcUuUUmxzavHi3M87q3o9UUJ5kjPjWxQ?usp=sharing)|Documentation for each Audit stage eg presentation slides and Poster.
-[Team Charter](https://github.com/YuexinChen96/8715-IOEnergy/blob/main/Documents/Team%20Charter.pdf)|The team's insurance form and confidentiality agreement.
-[Meeting Minutes and Weekly Agenda](https://docs.google.com/document/d/1WfmBg25TnX-3wSLOrmrzqYUeipr9Bp1ApxWZHz_fFVg/edit?usp=sharing)|Meeting records is for recording the weekly meeting notes with clients, and will be reviewed on weekly inner-group meeting. Agenda will be sent to clients before each week's meeting. The details of agenda are subject to the weekly email.
-[Decision Log, PM Overview](https://docs.google.com/spreadsheets/d/1tHocQ0SCRXdcdFboAhy9FC6_8R-uE7wCzc9LjX0xFbA/edit?usp=sharing)|This document will be updated after each week's inner-group meeting. Decision log documents all the major decisions. Project management overview includes new tasks for each week, and Gantt chart up to date. (Detailed Project Management will be updated in Jira and shared within the group)
-[Reflection Log](https://docs.google.com/document/d/1IF-PVXPF5HONpjKUjhgFBr3hapASjIB6g5jkJHNrMN8/edit?usp=sharing)|Documents on our reflection after each week and Audit.
-[Risk Matrix and Constraints](https://docs.google.com/spreadsheets/d/1DvPCkr_r0QE0AbWKD3gFRCs_AlMRYpD5SWJIlRuuesc/edit?usp=sharing)|Documents about risks that encountered and may encounter in this project, and constraints continuously being defined throughout the project.
-[Statement of Work(SoW)](https://github.com/YuexinChen96/8715-IOEnergy/blob/main/Documents/SoW%20IO%20Energy.pdf)|Document outlining the project scope, stakeholders, communication schedule, and development schedule.
-[Design Thinking Documents](https://github.com/YuexinChen96/8715-IOEnergy/tree/main/Documents/Design%20think%20process)|Design Thinking documentation and guides.
-[User Story](https://miro.com/app/board/o9J_l1Qz2wo=/)|Documents related to the user story.
-[Quality Control](https://docs.google.com/document/d/1xknVvc5jmiw_VynZByURVQMFdgy-Fd75s3e7X6zL_Zo/edit?usp=sharing)|Quality Control Documents recording the criteria  and Methods for QC.
-[Technical Document](https://docs.google.com/document/d/12pLYh_JzcEyuNyaVx0ghlucgYspW8Km99rD-0CdaGDI/edit?usp=sharing)|Technical documentation and guides.
-
-*Note not all folders are listed due to data privacy reasons
-
-## 5 Communication and Project Tools
+## 6 Communication and Project Tools
 > We will be using Slack and Emails for communication, Github for project development, and Google Docs for project management.
 
 Tools|Link|How to access
