@@ -10,7 +10,31 @@ As of now, our client - IO Energy has designed a web dashboard to present basic 
     <tr>
         <th>Sprint Period</th><th>Task Range</th><th>Details</th>
     </tr>
+  <tr>
+        <td rowspan="4">Week 3 (8 Aug - 14 Aug)</td>
     <tr>
+      <td>Backend</td><td>Initially Understand the possible technical stack</td>
+    </tr>
+    <tr>
+        <td>Product Management</td><td>Initial Background Research</td>
+    </tr>
+      <tr>
+        <td>Project Management</td><td>Prepare the IP Agreement and NDA<br>Prepare AP1<br>Setup Repo and links</td>
+    </tr>
+  <tr>
+    <tr>
+        <td rowspan="4">Week 4 (15 Aug - 21 Aug)</td><td>Front-end</td><td>Draft workflow</td>
+    </tr>
+    <tr>
+      <td>Backend</td><td>Complete the implementation for Docker<br>Understand backend data and relations</td>
+    </tr>
+    <tr>
+        <td>Product Management</td><td>Research for user requirements</td>
+    </tr>
+      <tr>
+        <td>Project Management</td><td>Sign the IP Agreement and NDA<br>Complete SoW</td>
+    </tr>
+  <tr>
         <td rowspan="4">Week 5 (22 Aug - 28 Aug)</td><td>Front-end</td><td>Draft workflow and UI design</td>
     </tr>
     <tr>
