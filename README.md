@@ -3,14 +3,27 @@
 
 ## 1 Project Introduction
 This project is to help the clients develop a Web Application for the statistics and visualization of electricity consumption of households and small businesses.   
-
+This project is a newly proposed project starting on semester 2, 2021. At this stage, the overall idea of Web Application is drafted and discussed with IO Energy.
 As of now, our client - IO Energy has designed a web dashboard to present basic information of the electricitt consumption for their customers. According to IO Energy's requirement, this project will focus on developing a Web Application to analyse and visualize the client's electricity consumption with required features and interface.  
-## 2 Current State
-This project is a newly proposed project starting on semester 2, 2021. At this stage, the overall idea of Web Application is drafted and discussed with IO Energy. Many features and ways of implementation have been confirmed:
-- The final Web Application will be a new product and be independent of the current dashboard made by IO Energy.
-- For the current stage of development, the Web Application will support the abilities of the statistics and visualization of electricity consumption of households and small businesses.
-- The way of the storage of datasets.
-- The frame of development for front-end and backend of Web Application.
+## 2 Weekly Sprint Schedule
+<table>
+    <tr>
+        <th>Sprint Period</th><th>Task Range</th><th>Details</th>
+    </tr>
+    <tr>
+        <td rowspan="4">Week 5 (22 Aug - 28 Aug)</td><td>Front-end</td><td>Draft workflow and UI design</td>
+    </tr>
+    <tr>
+      <td>Backend</td><td>Sort out backend calculation logic<br>Understand backend data and relations</td>
+    </tr>
+    <tr>
+        <td>Product Management</td><td>Continue the research for user requirements</td>
+    </tr>
+      <tr>
+        <td>Project Management</td><td>Documentation work: User Story, Technical Document, Reflection Log, Decision Log<br>Complete transfering from Clickup to Jira</td>
+    </tr>
+</table>
+
 
 ## 3 About the team and contacts
 > The following table outlines the contact person for the Client and Team side.  
