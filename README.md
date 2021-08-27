@@ -1,10 +1,10 @@
-# 8715 TechLauncher - IO Energy
-> This project is related to the ANU computing project course - COMP8715. Our client is IO Energy Company and for more information, please visit [https://www.ioenergy.com.au/](https://www.ioenergy.com.au/)  
+# 8715 TechLauncher - io energy
+> This project is related to the ANU computing project course - COMP8715. Our client is io energy Company and for more information, please visit [https://www.ioenergy.com.au/](https://www.ioenergy.com.au/)  
 
 ## 1 Project Introduction
 This project is to help the clients develop a Web Application for the statistics and visualization of electricity consumption of households and small businesses.   
-This project is a newly proposed project starting on semester 2, 2021. At this stage, the overall idea of Web Application is drafted and discussed with IO Energy.
-As of now, our client - IO Energy has designed a web dashboard to present basic information of the electricitt consumption for their customers. According to IO Energy's requirement, this project will focus on developing a Web Application to analyse and visualize the client's electricity consumption with required features and interface.  
+This project is a newly proposed project starting on semester 2, 2021. At this stage, the overall idea of Web Application is drafted and discussed with io energy.
+As of now, our client - io energy has designed a web dashboard to present basic information of the electricitt consumption for their customers. According to io energy's requirement, this project will focus on developing a Web Application to analyse and visualize the client's electricity consumption with required features and interface.  
 
 ## 2 Current Key Issues - Week 5 (22 Aug - 28 Aug)
 > Show the main issues of the current week. This section will be updated weekly.
