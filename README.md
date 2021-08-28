@@ -77,7 +77,7 @@ Folder|Description
 [Quality Control](https://docs.google.com/document/d/1xknVvc5jmiw_VynZByURVQMFdgy-Fd75s3e7X6zL_Zo/edit?usp=sharing)|Quality Control Documents recording the criteria  and Methods for QC.
 [Technical Document](https://docs.google.com/document/d/12pLYh_JzcEyuNyaVx0ghlucgYspW8Km99rD-0CdaGDI/edit?usp=sharing)|Technical documentation and guides.
 [Frond-end Design Documentation](https://drive.google.com/drive/folders/1N9fAUawHQ3J3rCwoB5HZKjTp0qxK1SCH)|Documents for front-end design stage, including workflow, UI design, etc. This part is still updating.
-[Backend Documentation](https://drive.google.com/drive/folders/1phUNyaAKGIw9y4KeGKjUpYZHrED0H0ix?ths=true)|Documents for backend design stage, including calculation logic, database design, API, etc. This part is still updating.
+[Backend Documentation](https://drive.google.com/drive/folders/1phUNyaAKGIw9y4KeGKjUpYZHrED0H0ix?usp=sharing)|Documents for backend design stage, including calculation logic, database design, API, etc. This part is still updating.
 
 
 
