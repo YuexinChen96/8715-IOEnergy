@@ -67,7 +67,7 @@ As of now, our client - iO Energy has designed a web dashboard to present basic 
       <td>Backend</td><td>Finish backend calculation logic draft - v2</td>
     </tr>
       <tr>
-        <td>Project Management</td><td>Improve User Story<br>Documentation work: finish the draft for Quality Control</td>
+        <td>Project Management</td><td>Prepare AP2<br>Improve User Story<br>Documentation work: finish the draft for Quality Control</td>
     </tr>
 </table>
 
