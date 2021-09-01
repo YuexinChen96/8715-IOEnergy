@@ -6,16 +6,20 @@ This project is to help the clients develop a Web Application for the statistics
 This project is a newly proposed project starting on semester 2, 2021. At this stage, the overall idea of Web Application is drafted and discussed with iO Energy.
 As of now, our client - iO Energy has designed a web dashboard to present basic information of the electricitt consumption for their customers. According to iO Energy's requirement, this project will focus on developing a Web Application to analyse and visualize the client's electricity consumption with required features and interface.  
 
-## 2 Current Key Issues - Week 5 (22 Aug - 28 Aug)
+## 2 Current Key Issues - Week 6 (29 Aug - 4 Sep)
 > Show the main issues of the current week. This section will be updated weekly.
-1. Need to finish the draft for frond-end design.
-2. Need to figure out the backend calculation logic.
-3. Need to improve the documentation for project management.
+1. Prepare for Audit Period 2.
+2. Need to finish the second version of draft for frond-end design based on client's feedback.
+3. Need to finish the second version of the backend calculation logic based on client's feedback.
+4. Need to improve the user story.
+5. Need to finish the draft for quality control.
 
 
 
 ## 3 Weekly Sprint Target
+
 > The following table will be updated weekly with main tasks in each sprint, detailed project management overview please see [Decision Log, PM Overview](https://docs.google.com/spreadsheets/d/1tHocQ0SCRXdcdFboAhy9FC6_8R-uE7wCzc9LjX0xFbA/edit#gid=1106146888).
+
 <table>
     <tr>
         <th>Sprint Period</th><th>Range</th><th>Target Description</th>
@@ -56,7 +60,17 @@ As of now, our client - iO Energy has designed a web dashboard to present basic 
       <tr>
         <td>Project Management</td><td>Documentation work: User Story, Technical Document, Reflection Log, Decision Log<br>Complete transfering from Clickup to Jira</td>
     </tr>
+  <tr>
+        <td rowspan="4">Week 6 (29 Aug - 4 Sep)</td><td>Front-end</td><td>Finish UI design draft - v2</td>
+    </tr>
+    <tr>
+      <td>Backend</td><td>Finish backend calculation logic draft - v2</td>
+    </tr>
+      <tr>
+        <td>Project Management</td><td>Improve User Story<br>Documentation work: finish the draft for Quality Control</td>
+    </tr>
 </table>
+
 
 
 
