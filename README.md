@@ -99,22 +99,25 @@ Folder|Description
 > The following table outlines the contact person for the Client and Team side.  
 
 **Client Side**
-Name|Contact Details
 
-:--------------:|:-------------------------------
-Rob Morris|rob@ioenergy.com.au
-Luke Morton|Luke@ioenergy.com.au
-Kishor J|kishor@ioenergy.com.au
+| Name        | Contact Details        |
+| ----------- | ---------------------- |
+| Rob Morris  | rob@ioenergy.com.au    |
+| Luke Morton | Luke@ioenergy.com.au   |
+| Kishor J    | kishor@ioenergy.com.au |
+
+
 
 
 **Team Side**
-Name|Contact Details|Role
-:---------------------:|:----------------------------:|:-------
-Xi Chen(Chloe)|Xi.Chen2@anu.edu.au|Spokesman, Client Contact, Scheduling, UI Designer, Front-end Developer
-Jingyi Wang(Shirley)|Jingyi.Wang2@anu.edu.au|Deputy Spokesman, Project Manager, Data Analysis and Visualization
-Qixuan Ren(Natalie)|Qixuan.Ren@anu.edu.au|Backend Developer, Documentation
-Yifei Tao(Katherin)|Yifei.Tao@anu.edu.au|Data Analysis, Documentation
-Yuexin Chen(Kevin)|Yuexin.Chen@anu.edu.au|Backend Developer, Database Administrator, Quality Control
+
+|         Name         |     Contact Details     | Role                                                         |
+| :------------------: | :---------------------: | :----------------------------------------------------------- |
+|    Xi Chen(Chloe)    |   Xi.Chen2@anu.edu.au   | Spokesman, Client Contact, Scheduling, UI Designer, Front-end Developer |
+| Jingyi Wang(Shirley) | Jingyi.Wang2@anu.edu.au | Deputy Spokesman, Project Manager, Data Analysis and Visualization |
+| Qixuan Ren(Natalie)  |  Qixuan.Ren@anu.edu.au  | Backend Developer, Documentation                             |
+| Yifei Tao(Katherin)  |  Yifei.Tao@anu.edu.au   | Data Analysis, Documentation                                 |
+|  Yuexin Chen(Kevin)  | Yuexin.Chen@anu.edu.au  | Backend Developer, Database Administrator, Quality Control   |
 
 
 ## 6 Communication and Project Tools
