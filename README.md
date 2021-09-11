@@ -21,64 +21,94 @@ As of now, our client - iO Energy has designed a web dashboard to present basic 
 > The following table will be updated weekly with main tasks in each sprint, detailed project management overview please see [Decision Log, PM Overview](https://docs.google.com/spreadsheets/d/1tHocQ0SCRXdcdFboAhy9FC6_8R-uE7wCzc9LjX0xFbA/edit#gid=1106146888).
 
 <table>
-    <tr>
-        <th>Sprint Period</th><th>Range</th><th>Target Description</th>
-    </tr>
+	<tr>
+		<th>Sprint Period</th>
+		<th>Range</th>
+		<th>Target Description</th>
+	</tr>
   <tr>
-        <td rowspan="4">Week 3 (8 Aug - 14 Aug)</td>
-    <tr>
-      <td>Backend</td><td>Initially Understand the possible technical stack</td>
-    </tr>
-    <tr>
-        <td>Product Management</td><td>Initial Background Research</td>
-    </tr>
-      <tr>
-        <td>Project Management</td><td>Prepare the IP Agreement and NDA<br>Prepare AP1<br>Setup Repo and links</td>
-    </tr>
+		<td rowspan="4">Week 3 (8 Aug - 14 Aug)</td>
+		<tr>
+			<td>Backend</td>
+    	<td>Initially Understand the possible technical stack</td>
+  	</tr>
+  	<tr>
+    	<td>Product Management</td>
+    	<td>Initial Background Research</td>
+  	</tr>
+  	<tr>
+    	<td>Project Management</td>
+    	<td>Prepare the IP Agreement and NDA<br>Prepare AP1<br>Setup Repo and links</td>
+  	</tr>
+	</tr>
   <tr>
+    <td rowspan="5">Week 4 (15 Aug - 21 Aug)</td>
     <tr>
-        <td rowspan="4">Week 4 (15 Aug - 21 Aug)</td><td>Front-end</td><td>Draft workflow</td>
-    </tr>
-    <tr>
-      <td>Backend</td><td>Complete the implementation for Docker<br>Understand backend data and relations</td>
-    </tr>
-    <tr>
-        <td>Product Management</td><td>Research for user requirements</td>
-    </tr>
-      <tr>
-        <td>Project Management</td><td>Sign the IP Agreement and NDA<br>Complete SoW</td>
-    </tr>
+    	<td>Front-end</td>
+    	<td>Draft workflow</td>
+  	</tr>
+  	<tr>
+    	<td>Backend</td>
+    	<td>Complete the implementation for Docker<br>Understand backend data and relations</td>
+  	</tr>
+  	<tr>
+    	<td>Product Management</td>
+    	<td>Research for user requirements</td>
+  	</tr>
+  	<tr>
+    	<td>Project Management</td>
+    		<td>Sign the IP Agreement and NDA<br>Complete SoW</td>
+  	</tr>
+  </tr>
   <tr>
-        <td rowspan="4">Week 5 (22 Aug - 28 Aug)</td><td>Front-end</td><td>Draft workflow and UI design</td>
+    <td rowspan="5">Week 5 (22 Aug - 28 Aug)</td>
+    <tr>
+    	<td>Front-end</td>
+    	<td>Draft workflow and UI design</td>
     </tr>
     <tr>
-      <td>Backend</td><td>Sort out backend calculation logic<br>Understand backend data and relations</td>
+      <td>Backend</td>
+      <td>Sort out backend calculation logic<br>Understand backend data and relations</td>
     </tr>
     <tr>
-        <td>Product Management</td><td>Continue the research for user requirements</td>
+      <td>Product Management</td>
+      <td>Continue the research for user requirements</td>
     </tr>
-      <tr>
-        <td>Project Management</td><td>Documentation work: User Story, Technical Document, Reflection Log, Decision Log<br>Complete transfering from Clickup to Jira</td>
+    <tr>
+      <td>Project Management</td>
+      <td>Documentation work: User Story, Technical Document, Reflection Log, Decision Log<br>Complete transfering from Clickup to Jira</td>
     </tr>
+  </tr>
   <tr>
-        <td rowspan="4">Week 6 (29 Aug - 4 Sep)</td><td>Front-end</td><td>Finish UI design draft - v2</td>
+    <td rowspan="4">Week 6 (29 Aug - 4 Sep)</td>
+    <tr>
+    	<td>Front-end</td>
+    	<td>Finish UI design draft - v2</td>
+  	</tr>
+    <tr>
+      <td>Backend</td>
+      <td>Finish backend calculation logic draft - v2</td>
     </tr>
     <tr>
-      <td>Backend</td><td>Finish backend calculation logic draft - v2</td>
+      <td>Project Management</td>
+      <td>Prepare AP2<br>Improve User Story<br>Documentation work: finish the draft for Quality Control</td>
     </tr>
-      <tr>
-        <td>Project Management</td><td>Prepare AP2<br>Improve User Story<br>Documentation work: finish the draft for Quality Control</td>
+  </tr>
+  <tr>
+    <td rowspan="4">TeachingBreak Week (5 Sep - 18 Sep)</td>
+    <tr>
+   	 <td>Front-end</td>
+    	<td>Finish UI design modification<br>Start front-end development for Sign-up and Sign-in interface</td>
+  	</tr>
+    <tr>
+      <td>Backend</td>
+      <td>Database design<br>Database implementation<br>Calculation logic modification</td>
     </tr>
     <tr>
-        <td rowspan="4">TeachingBreak Week (5 Sep - 18 Sep)</td><td>Front-end</td><td>Finish UI design modification<br>Start front-end development for Sign-up and Sign-in interface</td>
+      <td>Project Management</td>
+      <td>SoW review and update<br>Decision Making process improvement<br>Landing page improvement</td>
     </tr>
-    <tr>
-      <td>Backend</td><td>Database design<br>Database implementation<br>Calculation logic modification</td>
-    </tr>
-      <tr>
-        <td>Project Management</td><td>SoW review and update<br>Decision Making process improvement<br>Landing page improvement</td>
-    </tr>
-</table>
+	</tr>
 
 
 
