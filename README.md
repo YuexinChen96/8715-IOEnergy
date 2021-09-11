@@ -6,13 +6,13 @@ This project is to help the clients develop a Web Application for the statistics
 This project is a newly proposed project starting on semester 2, 2021. At this stage, the overall idea of Web Application is drafted and discussed with iO Energy.
 As of now, our client - iO Energy has designed a web dashboard to present basic information of the electricitt consumption for their customers. According to iO Energy's requirement, this project will focus on developing a Web Application to analyse and visualize the client's electricity consumption with required features and interface.  
 
-## 2 Current Key Issues - Week 6 (29 Aug - 4 Sep)
+## 2 Current Key Issues - TeachingBreak Week (5 Sep - 18 Sep)
 > Show the main issues of the current week. This section will be updated weekly.
-1. Prepare for Audit Period 2.
-2. Need to finish the second version of draft for frond-end design based on client's feedback.
-3. Need to finish the second version of the backend calculation logic based on client's feedback.
-4. Need to improve the user story.
-5. Need to finish the draft for quality control.
+1. Continue UI design modification.
+2. Continue calculation logic modification.
+3. Need to start the database design work.
+4. Need to start the front-end development.
+5. Need to improve PM documentation for SoW, Decision Log, Risk Matrix, and routine updates.
 
 
 
@@ -68,6 +68,15 @@ As of now, our client - iO Energy has designed a web dashboard to present basic 
     </tr>
       <tr>
         <td>Project Management</td><td>Prepare AP2<br>Improve User Story<br>Documentation work: finish the draft for Quality Control</td>
+    </tr>
+    <tr>
+        <td rowspan="4">TeachingBreak Week (5 Sep - 18 Sep)</td><td>Front-end</td><td>Finish UI design modification<br>Start front-end development for Sign-up and Sign-in interface</td>
+    </tr>
+    <tr>
+      <td>Backend</td><td>Database design<br>Database implementation<br>Calculation logic modification</td>
+    </tr>
+      <tr>
+        <td>Project Management</td><td>SoW review and update<br>Decision Making process improvement<br>Landing page improvement</td>
     </tr>
 </table>
 
