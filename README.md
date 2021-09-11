@@ -109,7 +109,7 @@ As of now, our client - iO Energy has designed a web dashboard to present basic 
       <td>SoW review and update<br>Decision Making process improvement<br>Landing page improvement</td>
     </tr>
 	</tr>
-
+</table>
 
 
 
