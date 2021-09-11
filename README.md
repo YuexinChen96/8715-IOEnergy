@@ -95,7 +95,7 @@ As of now, our client - iO Energy has designed a web dashboard to present basic 
     </tr>
   </tr>
   <tr>
-    <td rowspan="4">**TeachingBreak Week (5 Sep - 18 Sep)**</td>
+    <td rowspan="4">TeachingBreak Week (5 Sep - 18 Sep)</td>
     <tr>
    	 <td>Front-end</td>
     	<td>Finish UI design modification<br>Start front-end development for Sign-up and Sign-in interface</td>
@@ -110,6 +110,7 @@ As of now, our client - iO Energy has designed a web dashboard to present basic 
     </tr>
 	</tr>
 </table>
+
 
 
 
