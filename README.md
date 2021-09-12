@@ -102,7 +102,7 @@ As of now, our client - iO Energy has designed a web dashboard to present basic 
   	</tr>
     <tr>
       <td>Backend</td>
-      <td>Database design<br>Database implementation<br>Calculation logic modification</td>
+      <td>Database design<br>SQL script for creating database<br>Python script for converting csv files<br>Calculation logic modification</td>
     </tr>
     <tr>
       <td>Project Management</td>
