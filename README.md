@@ -10,9 +10,9 @@ As of now, our client - iO Energy has designed a web dashboard to present basic 
 > Show the main issues of the current week. This section will be updated weekly.
 1. Continue UI design modification.
 2. Continue calculation logic modification.
-3. Need to start the database design work.
-4. Need to start the front-end development.
-5. Need to improve PM documentation for SoW, Decision Log, Risk Matrix, and routine updates.
+3. Continue database implementation.
+4. Continue the front-end development.
+5. Start the Django framework research.
 
 
 
@@ -107,6 +107,21 @@ As of now, our client - iO Energy has designed a web dashboard to present basic 
     <tr>
       <td>Project Management</td>
       <td>SoW review and update<br>Decision Making process improvement<br>Landing page improvement</td>
+    </tr>
+	</tr>
+  <tr>
+    <td rowspan="4">Week 7 (19 Sep - 25 Sep)</td>
+    <tr>
+      <td>Front-end</td>
+      <td>Finish UI design modification<br>Continue front-end development for Sign-up and Sign-in interface</td>
+    </tr>
+    <tr>
+      <td>Backend</td>
+      <td>Python script for 'create' and 'insert' into database<br>Calculation logic modification<br>Django framework research</td>
+    </tr>
+    <tr>
+      <td>Project Management</td>
+      <td>Weekly meeting arrangement<br>Routine work for documentation update.</td>
     </tr>
 	</tr>
 </table>
