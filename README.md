@@ -124,6 +124,21 @@ As of now, our client - iO Energy has designed a web dashboard to present basic 
       <td>Weekly meeting arrangement<br>Routine work for documentation update.</td>
     </tr>
 	</tr>
+  <tr>
+    <td rowspan="4">Week 8 (26 Sep - 2 Oct)</td>
+    <tr>
+      <td>Front-end</td>
+      <td>Continue front-end development for Sign-up and Sign-in interface<br>Start dashboard fornt-end implementation</td>
+    </tr>
+    <tr>
+      <td>Backend</td>
+      <td>Database redesign for user consumption data - contact with client for connection issue<br>Energy data from Opennpm collecting, modify the database design for energy data<br>Django framework implementation based on front-end requirement</td>
+    </tr>
+    <tr>
+      <td>Project Management</td>
+      <td>Weekly meeting arrangement<BR>Routine work for documentation update</td>
+    </tr>
+	</tr>
 </table>
 
 
