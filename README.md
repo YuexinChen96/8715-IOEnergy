@@ -140,6 +140,36 @@ As of now, our client - iO Energy has designed a web dashboard to present basic 
       <td>Weekly meeting arrangement<BR>Routine work for documentation update</td>
     </tr>
 	</tr>
+  <tr>
+    <td rowspan="4">Week 9 (3 Oct - 9 Oct)</td>
+    <tr>
+      <td>Front-end</td>
+      <td>Continue front-end development for dashboard</td>
+    </tr>
+    <tr>
+      <td>Backend</td>
+      <td>Continue Django framework implementation<br>Modify the database framework and calculation logic</td>
+    </tr>
+    <tr>
+      <td>Project Management</td>
+      <td>Prepare showcase video<br>Reflection for Audit Period 2</td>
+    </tr>
+	</tr>
+  <tr>
+    <td rowspan="4">Week 10 (10 Oct - 16 Oct)</td>
+    <tr>
+      <td>Front-end</td>
+      <td>Continue front-end development for dashboard</td>
+    </tr>
+    <tr>
+      <td>Backend</td>
+      <td>Continue Django framework implementation<br>Modify the database framework and calculation logic</td>
+    </tr>
+    <tr>
+      <td>Project Management</td>
+      <td>Prepare Audit Period 3<br>Weekly meeting arrangement<BR>Routine work for documentation update</td>
+    </tr>
+	</tr>
 </table>
 
 
