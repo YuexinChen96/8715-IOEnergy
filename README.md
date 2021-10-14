@@ -6,14 +6,14 @@ This project is to help the clients develop a Web Application for the statistics
 This project is a newly proposed project starting on semester 2, 2021. At this stage, the overall idea of Web Application is drafted and discussed with iO Energy.
 As of now, our client - iO Energy has designed a web dashboard to present basic information of the electricitt consumption for their customers. According to iO Energy's requirement, this project will focus on developing a Web Application to analyse and visualize the client's electricity consumption with required features and interface.  
 
-## 2 Current Key Issues - Week 8 (26 Sep - 2 Oct)
+Watch our showcase here: https://youtu.be/CL-jtkQi4j4
+
+## 2 Current Key Issues - Week 10 (10 Oct - 16 Oct)
 > Show the main issues of the current week. This section will be updated weekly.
-1. Contact the client for database connection issue, and redesign the database for user consumption data.
-2. Collect energy cunsumption data from Opennem.
-3. Meeting with Techops for database discussion.
-4. Start the Django framework implementation.
-5. Start the front-end development for dashboard.
-6. Start to implement the AWS Cognito invocation.
+1. Continue the front-end development for dashboard.
+2. Continue the Django framework implementation.
+3. Prepare the showcase.
+4. Schedule the documentation review work.
 
 
 
