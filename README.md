@@ -174,7 +174,7 @@ Watch our showcase here: https://youtu.be/CL-jtkQi4j4
     </tr>
 	</tr>
   <tr>
-    <td rowspan="4">Week 11 (17 Oct - 23 Oct)</td>
+    <td rowspan="5">Week 11 (17 Oct - 23 Oct)</td>
     <tr>
       <td>Front-end</td>
       <td>UI modification for charts - new modification requirement<br>Finish the front-end components left in consumption page </td>
