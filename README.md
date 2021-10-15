@@ -185,7 +185,7 @@ Watch our showcase here: https://youtu.be/CL-jtkQi4j4
     </tr>
     <tr>
       <td>Integration</td>
-      <td>integrate the front-end and backend for page1</td>
+      <td>Integrate the front-end and backend for user consumption page.</td>
     </tr>
     <tr>
       <td>Project Management</td>
