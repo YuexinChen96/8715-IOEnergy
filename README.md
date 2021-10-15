@@ -8,12 +8,15 @@ As of now, our client - iO Energy has designed a web dashboard to present basic 
 
 Watch our showcase here: https://youtu.be/CL-jtkQi4j4
 
-## 2 Current Key Issues - Week 10 (10 Oct - 16 Oct)
+## 2 Current Key Issues - Week 11 (17 Oct - 23 Oct)
 > Show the main issues of the current week. This section will be updated weekly.
-1. Continue the front-end development for dashboard.
-2. Continue the Django framework implementation.
-3. Prepare the showcase.
-4. Schedule the documentation review work.
+1. Continue to finish the front-end component development for dashboard page1.
+2. UI modification based on new understanding for charts.
+3. Cognito implementation in Django.
+4. Continue backend logic coding.
+5. Integration for user consumption page.
+6. Prepare the showcase.
+7. Schedule the documentation review work.
 
 
 
@@ -168,6 +171,25 @@ Watch our showcase here: https://youtu.be/CL-jtkQi4j4
     <tr>
       <td>Project Management</td>
       <td>Prepare Audit Period 3<br>Weekly meeting arrangement<BR>Routine work for documentation update</td>
+    </tr>
+	</tr>
+  <tr>
+    <td rowspan="4">Week 11 (17 Oct - 23 Oct)</td>
+    <tr>
+      <td>Front-end</td>
+      <td>UI modification for charts - new modification requirement<br>Finish the front-end components left in consumption page </td>
+    </tr>
+    <tr>
+      <td>Backend</td>
+      <td>Cognito implementation<br>Continue backend logic coding based on new plan</td>
+    </tr>
+    <tr>
+      <td>Integration</td>
+      <td>integrate the front-end and backend for page1</td>
+    </tr>
+    <tr>
+      <td>Project Management</td>
+      <td>Routine work for documentation update<br>Showcase preparation</td>
     </tr>
 	</tr>
 </table>
